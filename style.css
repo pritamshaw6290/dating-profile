@@ -144,7 +144,7 @@ h1{
     padding: 0px;
     position: absolute;
     left:15%;
-    top:82%;
+    top:80%;
     background-color: var(--colorm);
     font-family:cursive;
 
@@ -156,7 +156,7 @@ h1{
     padding: 0px;
     position: absolute;
     left:15%;
-    top:87%;
+    top:85%;
     right: 35%;
     font-size: 17px;
     font-family: 'Times New Roman', Times, serif;
